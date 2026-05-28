@@ -14,7 +14,7 @@ Repositori ini berisi implementasi *data pipeline* end-to-end berbasis streaming
 |---|---|---|---|
 | 1 | Reynaldi Rahmad | 122450088 | [@reyrhmdd](https://github.com/reyrhmdd) |
 | 2 | Cindy Laura Manik | 123450112 | [@CindyLauraManik](https://github.com/CindyLauraManik) |
-| 3 | Dharu Cahyoaji Sasongko | 123450023 | [@DaruCahyoaji](https://github.com/DaruCahyoaji) |
+| 3 | Dharu Cahyoaji Sasongko | 123450023 | [@DharuCahyoaji](https://github.com/DharuCahyoaji) |
 | 4 | Natasya Felisita Br Ginting | 123140017 | [@NatasyaFelisitaBrGinting17](https://github.com/NatasyaFelisitaBrGinting17) |
 
 **Tema:** SDGs 9 - Industri, Inovasi, dan Infrastruktur  
